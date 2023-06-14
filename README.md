@@ -5,9 +5,13 @@ This is a Unity project implements the Foveated Depth-of-Field effect on VR/AR d
 To work properly, HTC Vive Pro Eye headset is required.
 
 Controls:
+
 To start the rollercoaster, press the "p" key on the keyboard.
+
 To enable the blurring effect, press the "d" key or the "f" key on the keyboard.
+
 To disbale the blurring effect, press the "u" key on the keyboard.
+
 
 
 The corresponding articles are:
